@@ -1,24 +1,7 @@
-# mini_project
+# nANIME
+<b>NOTICE:</b> This project was created for study cases only. You allowed to use this in production.
 
-## Project setup
-```
-npm install
-```
+### Features
+<li>Embeded video from Google Drive</li>
+<li>Episode selector</li>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
